@@ -1,8 +1,13 @@
-# React + Vite
+# Develop Character Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this activity, you will reinforce and build upon the testing and React skills that you have learned so far by designing and developing React components based on the prewritten tests.
 
-Currently, two official plugins are available:
+## Instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Develop code that makes the tests provided in `starter` pass.
+
+**You must** utilize the data provide in the [characterData.json](./starter/src/data/characterData.json) to dynamically render your `Character` components.
+
+---
+
+© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
